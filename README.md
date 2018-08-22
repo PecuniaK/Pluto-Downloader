@@ -82,4 +82,4 @@ But when I am downloading a file from my private servers I need the absolute max
 
 # License 
 
-GPLv2
+GPLv3
